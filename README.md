@@ -6,7 +6,7 @@ An intelligent, backend-driven prayer tracking system for Muslims — built with
 
 ## ⚠️ Project Status
 🛠️ This is a private, personal project currently under development.
-This project reflects my experimental ideas,and I actively shape it further during creative bursts and breaks.
+This project reflects my experimental ideas,and I am actively shaping it further .
 It's not production-ready yet — but it’s growing into something meaningful over time.
 
 📌 Expect future improvements, better UI, and added features — whenever inspiration strikes!
