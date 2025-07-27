@@ -2,7 +2,7 @@
 
 from fastapi import APIRouter
 
-router = APIRouter()
+router = APIRouter(tags=["Qibla"]  )
 
 @router.get("/direction")
 def get_qibla_direction():
